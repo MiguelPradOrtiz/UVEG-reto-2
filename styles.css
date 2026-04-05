@@ -1,0 +1,46 @@
+body {
+    background: #f4f4f4;
+    font-family: Arial, sans-serif;
+}
+
+#contenedor {
+    width: 80%;
+    margin: auto;
+    background: white;
+    padding: 20px;
+}
+
+.seccion {
+    margin: 20px 0;
+    padding: 10px;
+}
+
+h1 {
+    color: #2c3e50;
+    text-align: center;
+}
+
+h2 {
+    color: #34495e;
+}
+
+p {
+    color: #555;
+}
+
+.resaltado {
+    color: red;
+    font-weight: bold;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+    background: #ecf0f1;
+}
